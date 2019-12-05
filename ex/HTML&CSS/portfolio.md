@@ -1,6 +1,6 @@
 [Voltar à tela inicial](../../README.md)
 
-### A seguinte tela de login deve ser feita com HTML e CSS puros.
+### A seguinte tela deve ser feita com HTML e CSS puros.
 ![Logix - Behance](../images/portfolio.jpg)
 > Você terá uma estrutura da seguinte forma:
 ```text
