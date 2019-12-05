@@ -34,3 +34,6 @@ Exercícios sobre um novo jeito de escrever JavaScript.
 
 ### React
 Exercícios sobre ReactJS.
+
+### Licença
+[GNU GENERAL PUBLIC LICENSE v3](./LICENSE.md)
