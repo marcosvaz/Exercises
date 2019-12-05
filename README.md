@@ -22,9 +22,9 @@ Exercícios baseados em propriedades básicas do HTML e CSS.
 + [Tela de Login](./ex/HTML&CSS/login.md)
 + [Portifólio](./ex/HTML&CSS/portfolio.md)
 
-
 ### Responsividade
 Exercícios baseados em media-queries do CSS, para aulas sobre responsividade.
++ [Comercial](./ex/Responsividade/comercial.md)
 
 ### JavaScript
 Exercícios sobre estrutura do JavaScript.
