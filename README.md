@@ -29,6 +29,7 @@ Exercícios baseados em media-queries do CSS, para aulas sobre responsividade.
 
 ### JavaScript
 Exercícios sobre estrutura do JavaScript.
++ [Button UI](./ex/JavaScript/button.md)
 
 ### TypeScript
 Exercícios sobre um novo jeito de escrever JavaScript.
