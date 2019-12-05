@@ -25,6 +25,7 @@ Exercícios baseados em propriedades básicas do HTML e CSS.
 ### Responsividade
 Exercícios baseados em media-queries do CSS, para aulas sobre responsividade.
 + [Comercial](./ex/Responsividade/comercial.md)
++ [Tattoo](./ex/Responsividade/tattoo.md)
 
 ### JavaScript
 Exercícios sobre estrutura do JavaScript.
