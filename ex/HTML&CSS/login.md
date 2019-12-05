@@ -1,5 +1,5 @@
 ### A seguinte tela de login deve ser feita com HTML e CSS puros.
-![Layout - Dribbble]({{https://cdn.dribbble.com}}/users/905066/screenshots/2648468/dsd.png)
+![Layout - Dribbble](../images/login.png)
 > Você terá uma estrutura da seguinte forma:
 ```text
 container
@@ -14,7 +14,7 @@ container
 │   │       └── campo
 │   └── rodapé
 │       └── botão
-└── box:
+└── box
     ├── título
     └── subtítulo
 ```
