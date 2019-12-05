@@ -18,7 +18,8 @@
 Os exercícios são baseados no Guia DevSpace e aulas ministradas na DSB.
 
 ### HTML & CSS
-Exercícios baseados em propriedades básicas do HTML e CSS
+Exercícios baseados em propriedades básicas do HTML e CSS.
++ [Tela de Login](./ex/HTML&CSS/login.md)
 
 ### Responsividade
 Exercícios baseados em media-queries do CSS, para aulas sobre responsividade.
